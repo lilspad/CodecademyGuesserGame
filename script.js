@@ -5,7 +5,7 @@ let currentRoundNumber = 1;
 // Write your code below:
 
 const generateTarget = () => {
-    let target = Math.floor(Math.random() * 9);
+    let target = Math.floor(Math.random() * 10);
     return target;
 };
 
